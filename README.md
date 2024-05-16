@@ -1,4 +1,2 @@
-# Rutherfordium.exe
-A short GDI shader Malware (noskid)
-<br>
-I will never making a video about this malware.
+# Rutherfordium
+C++ short skidded GDI trojan by pankoza
